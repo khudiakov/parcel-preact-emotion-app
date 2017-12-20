@@ -1,0 +1,19 @@
+{
+  "name": "parcel-preact-emotion-app",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "emotion": "^8.0.12",
+    "preact": "^8.2.7",
+    "preact-compat": "^3.17.0",
+    "preact-emotion": "^8.0.12"
+  },
+  "devDependencies": {
+    "babel-plugin-emotion": "^8.0.12",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-preact": "^1.1.0"
+  }
+}
